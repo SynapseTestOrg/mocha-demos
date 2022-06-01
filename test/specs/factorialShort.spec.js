@@ -39,3 +39,4 @@ describe('factorialShort', function() {
         expect(factorial.factorialShort(1)).to.be.equal(1);
     });
 });
+
