@@ -14,5 +14,5 @@ preRun:
   command: 
     - npm ci
     - apt update
-    - apt install chromium
+    - apt install chromium -y
 
