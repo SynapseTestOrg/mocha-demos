@@ -15,4 +15,3 @@ preRun:
     - npm ci
     - apt update
     - apt install chromium
-    - apt install mysql-server
