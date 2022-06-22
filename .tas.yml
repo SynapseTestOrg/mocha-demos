@@ -13,4 +13,3 @@ preMerge:
 preRun: 
   command: 
     - npm ci
-    - sleep 120
